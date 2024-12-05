@@ -1,0 +1,19 @@
+{
+  "name": "chai-backend-code",
+  "version": "1.0.0",
+  "description": "a app with backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "amaresh maharana",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1"
+  }
+}
